@@ -1,0 +1,11 @@
+java script:
+load- executes when the whole page is loaded
+Drawing Context- a built-in object that contains all the methods and properties that allow us to draw and animate colours, shapes, and other graphics on HTML canvas.
+RequestAnimationFrame- tell the browser that we wish to perform an animation and it requests that the browser calls a specified function to update an animation before the next repaint.
+Arrow function(=>)- this keyword inside the arrow function always represents the object in which the arrow function is defined.
+indexOf()- returns the first index at which a given element can be found in the array, or it returns -1 if the element is not present.
+splice()- changes the contents of an array by removing or replacing existing elements. It takes two arguments.
+includes()- determines whether an array includes a certain value among it's enteries, returning true of false as appropiate.
+filter()- creates a new array with all elements that pass the test implemented by the provided function.
+Delta Time- difference between in miliseconds between the timestamp from this loop and the timestamp from the previous loop.
+toFixed()- formats a number using fixed point notation. We can use it to define the number of digits we want to appear after the decimal point. 
